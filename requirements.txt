@@ -1,0 +1,35 @@
+# --- Core AI Packages ---
+openai
+boto3
+
+# --- Deep Learning ---
+torch
+torchvision
+tensorflow
+keras
+
+# --- Machine Learning ---
+scikit-learn
+xgboost
+pandas
+numpy
+matplotlib
+seaborn
+
+# --- Computer Vision ---
+opencv-python
+Pillow
+
+# --- NLP ---
+transformers
+sentencepiece
+
+# --- Utilities ---
+tqdm
+requests
+python-dotenv
+
+# --- Jupyter ---
+jupyter
+notebook
+
