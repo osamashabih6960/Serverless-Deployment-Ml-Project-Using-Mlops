@@ -1,7 +1,7 @@
 import os
 import boto3
 import logging
-from openai import OpenAI
+from groq import Groq
 
 # Setup logging
 logger = logging.getLogger()
